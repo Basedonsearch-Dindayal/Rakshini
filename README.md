@@ -43,7 +43,6 @@ Pain points include:
 
 ## 🚀 Tech Stack
 
-- **Frontend:** Java (Android Studio)
-- **Backend:** Firebase Authentication & Firestore
-- **Location & Maps:** Google Maps SDK, Geolocation API
-- **Messaging:** Twilio SMS API
+- **Frontend:** Kotlin (Android Studio)
+- **Backend:** RESTAPI
+- **Messaging:** SMS Messenger Native Android
