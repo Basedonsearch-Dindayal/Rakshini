@@ -8,6 +8,6 @@ features to a personalized profile. This app empowers users with safety and heal
 Women lack an integrated app for safety (e.g., emergencies) and health (e.g., period tracking).
 Pain points include inaccessible SOS tools and fragmented health solutions.
 
-Existing apps focus on safety or health, not both, with outdated UIs.
-Opportunity for a modern, unified solution with offline capabilities.
+Existing apps focus on safety or health, not both, with outdated UIs
+Opportunity for a modern, unified solution with offline capabilities
 
