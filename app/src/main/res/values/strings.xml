@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rakshini</string>
+    <string name="phone_number_hint">Enter Phone Number (+91)</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome_message">Welcome Rakshini</string>
+    <string name="logout">Logout</string>
+    <string name="sos_button_text">SOS</string>
+    <string name="period_tracker">Period Tracker</string>
+    <string name="blogs">Blogs</string>
+    <string name="introduction">Rakshini empowers women with safety, health, and knowledge. Explore SOS for emergencies, track your periods with precision, and read insightful articles on safety, precautions, and laws.</string>
+    <string name="trigger_sos">Trigger SOS</string>
+    <string name="article_safety">Safety Tips for Women</string>
+    <string name="article_precautions">Precautions to Take</string>
+    <string name="article_laws">Women Safety Laws</string>
+    <string name="log_period">Log Period</string>
+    <!-- New strings for modern UI -->
+    <string name="no_account_prompt">Don’t have an account?</string>
+    <string name="selected_date_label">Selected Date:</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="app_intro_title">Welcome to Rakshini</string>
+    <string name="app_intro_description">Rakshini is the all-in-one app for modern women\'s safety and health. Quickly access help with our SOS feature and effortlessly track your cycle with our Period Calendar. Our mission is to minimize daily worries and help you lead a healthy, carefree life. Plus, explore our upcoming blogs for more insights!</string>
+    <string name="explore">Explore Now</string>
+    <string name="blog_title">Blog</string>
+    <string name="sos_title">SOS Emergency</string>
+    <string name="emergency_contact_hint">Enter Emergency Contact (10 digits)</string>
+    <string name="save_contact">Save Contact</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardBackground">#FFFFFF</color> <!-- Crisp white for cards -->
+    <color name="textPrimary">#1E1E1E</color> <!-- Deeper gray for primary text -->
+    <color name="textSecondary">#757575</color> <!-- Light gray for secondary text/hints -->
+    <color name="accentPink">#FF4081</color> <!-- Vibrant pink accent -->
+    <color name="accentPurple">#7B1FA2</color> <!-- Richer purple accent -->
+    <color name="sosRed">#D32F2F</color> <!-- Softer red for SOS -->
+    <color name="colorPrimary">#6D4C41</color> <!-- Warm brown primary -->
+    <color name="colorPrimaryDark">#4E342E</color> <!-- Darker brown -->
+    <!-- Modern Gradient Colors -->
+    <color name="gradientStart">#F8BBD0</color> <!-- Light pastel pink -->
+    <color name="gradientMid">#CE93D8</color> <!-- Soft purple transition -->
+    <color name="gradientEnd">#AB47BC</color> <!-- Deep purple end -->
+    <color name="accentRed">#FF4444</color>
+    <color name="cardBackgroundLight">#F5F5F5</color>
+    <color name="bottomNavTint">#040000</color>
+    <!-- New color for logout button background -->
+    <color name="logoutButtonBackground">#E0E0E0</color> <!-- Subtle gray, adjust for gradient -->
+</resources>
