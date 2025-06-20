@@ -6,7 +6,7 @@
     android:background="@drawable/modern_gradient_background"
     android:paddingTop="48dp">
 
-    <!-- Logout Button with Icon and Text (Top Right Corner) -->
+
     <LinearLayout
         android:id="@+id/logout_button"
         android:layout_width="wrap_content"
@@ -37,7 +37,7 @@
 
     </LinearLayout>
 
-    <!-- Intro Card -->
+
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/intro_card"
         android:layout_width="0dp"
@@ -82,7 +82,7 @@
         </LinearLayout>
     </com.google.android.material.card.MaterialCardView>
 
-    <!-- Bottom Navigation -->
+
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottom_navigation"
         android:layout_width="0dp"

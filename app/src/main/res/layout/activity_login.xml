@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/modern_gradient_background">
 
-    <!-- Logo Placeholder -->
+
     <ImageView
         android:id="@+id/logo_image"
         android:layout_width="120dp"
@@ -17,7 +17,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="64dp" />
 
-    <!-- Login Card -->
+
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/login_card"
         android:layout_width="0dp"
@@ -141,7 +141,7 @@
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>
 
-    <!-- Floating Action Button for Quick Register -->
+
 <com.google.android.material.floatingactionbutton.FloatingActionButton
 android:id="@+id/register_fab"
 android:layout_width="wrap_content"

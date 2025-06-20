@@ -101,7 +101,7 @@ class PeriodTrackerActivity : AppCompatActivity() {
                     Log.w("PeriodTracker", "Invalid date format in prefs: $millis", e)
                 }
             }
-            loggedDates.sortByDescending { dateFormat.parse(it) } // Fixed by ensuring Date is imported
+            loggedDates.sortByDescending { dateFormat.parse(it) }
             Log.d("PeriodTracker", "Loaded dates: $loggedDates")
             dateAdapter.updateDates(loggedDates)
         } catch (e: Exception) {

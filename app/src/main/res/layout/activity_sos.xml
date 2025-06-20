@@ -6,9 +6,7 @@
     android:background="@drawable/modern_gradient_background"
     android:padding="16dp">
 
-    <!-- Header Title -->
 
-    <!-- SOS Button Card -->
 
     <TextView
         android:id="@+id/title_text"
@@ -51,7 +49,7 @@
             android:padding="8dp" />
     </com.google.android.material.card.MaterialCardView>
 
-    <!-- Emergency Contact Input -->
+
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/emergency_contact_layout"
         android:layout_width="0dp"
@@ -75,7 +73,7 @@
             android:textSize="16sp" />
     </com.google.android.material.textfield.TextInputLayout>
 
-    <!-- Save Contact Button -->
+
     <com.google.android.material.button.MaterialButton
         android:id="@+id/save_contact_button"
         android:layout_width="wrap_content"

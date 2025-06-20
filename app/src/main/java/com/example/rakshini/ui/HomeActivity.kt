@@ -22,18 +22,18 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
-        // Bind the new logout button (LinearLayout)
+
         val logoutButton = findViewById<LinearLayout>(R.id.logout_button)
         bottomNavigationView = findViewById(R.id.bottom_navigation)
 
-        // Set click listener for logout
+
         logoutButton.setOnClickListener {
             Log.d(TAG, "Logout button clicked")
             startActivity(Intent(this, LoginActivity::class.java))
             finish()
         }
 
-        // Set up bottom navigation
+
         bottomNavigationView.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.nav_sos -> {

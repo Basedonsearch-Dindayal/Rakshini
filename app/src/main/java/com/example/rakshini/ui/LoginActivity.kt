@@ -96,6 +96,6 @@ class LoginActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         super.onDestroy()
-        // Cleanup if needed
+
     }
 }
